@@ -1,0 +1,82 @@
+[
+    {
+        "id": "titan-01",
+        "name": "Colossal Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Armin_Arlelt.png?raw=true",
+        "abilities": [
+            "Explosive transformation",
+            "Immense size and strength",
+            "Steam emission"
+        ]
+    },
+    {
+        "id": "titan-02",
+        "name": "War Hammer Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/war-Hammer.png?raw=true",
+        "abilities": [
+            "Structural hardening",
+            "Remote operation"
+        ]
+    },
+    {
+        "id": "titan-03",
+        "name": "Attack Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Atack_Titan.png?raw=true",
+        "abilities": [
+            "Future memory inheritance"
+        ]
+    },
+    {
+        "id": "titan-04",
+        "name": "Founding Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Founding_Titan.png?raw=true",
+        "abilities": [
+            "Titan creation",
+            "Titan behavioral control",
+            "Memory and body manipulation of subjects of ymir",
+            "Telepathic communication with subjects of ymir"
+        ]
+    },
+    {
+        "id": "titan-05",
+        "name": "Beast Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Beast_Titan.png?raw=true",
+        "abilities": [
+            "Powerful and accurate throwing",
+            "Hardening",
+            "Speech",
+            "Can turn subjects of ymir into titans that he can crudely control (users with royal blood only)"
+        ]
+    },
+    {
+        "id": "titan-06",
+        "name": "Armord Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Armored_Titan.png?raw=true",
+        "abilities": [
+            "Armored skin",
+            "Hardening"
+        ]
+    },
+    {
+        "id": "titan-07",
+        "name": "Cart Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Cart_Titan.png?raw=true",
+        "abilities": [
+            "Quadrupedal form",
+            "High endurance",
+            "Great speed",
+            "Speech"
+        ]
+    },
+    {
+        "id": "titan-08",
+        "name": "Female Titan",
+        "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Female_Titan-.png?raw=true",
+        "abilities": [
+            "Versatility",
+            "Titan ",
+            "Attraction",
+            "Crystallization"
+        ]
+    }
+]
