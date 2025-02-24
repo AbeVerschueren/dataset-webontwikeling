@@ -7,7 +7,9 @@
             "Explosive transformation",
             "Immense size and strength",
             "Steam emission"
-        ]
+        ],
+        "description": " It was notable for its incredible size and its ability to control both the steam emitted by its Titan body and the amount of energy released during its transformations."
+        
     },
     {
         "id": "titan-02",
@@ -17,6 +19,8 @@
             "Structural hardening",
             "Remote operation"
         ]
+        ,
+        "description":"this type of Titan has legs so large they can house a full company of Adeptus Mechanicus or Astra Militarum troops for defence and assault assistance. These Titans can stand up to 150 metres (approximately 492 feet) tall."
     },
     {
         "id": "titan-03",
@@ -25,8 +29,10 @@
         "abilities": [
             "Future memory inheritance"
         ]
+        ,
+        "description":"one of the Nine Titans that could see through the memories of its past and future holders, and is said to have fought for freedom throughout the course of numerous generations."
     },
-    {
+    { 
         "id": "titan-04",
         "name": "Founding Titan",
         "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Founding_Titan.png?raw=true",
@@ -36,8 +42,12 @@
             "Memory and body manipulation of subjects of ymir",
             "Telepathic communication with subjects of ymir"
         ]
-    },
-    {
+        ,
+        "description":"The Founding Titan was capable of changing the body composition of any Subject of Ymir. An Eldian king from 600 years ago once used this power to make the Subjects of Ymir immune to a rampant epidemic. "
+
+        
+    }, 
+    { 
         "id": "titan-05",
         "name": "Beast Titan",
         "img": "https://github.com/AbeVerschueren/dataset-webontwikeling/blob/main/img/titans/Beast_Titan.png?raw=true",
@@ -47,6 +57,8 @@
             "Speech",
             "Can turn subjects of ymir into titans that he can crudely control (users with royal blood only)"
         ]
+        ,
+        "description":"The Beast Titan is the same as ever. It's a bit larger than the others, but that's far from all. Its pitching assault is an unprecedented, awe-inspiring weapon."
     },
     {
         "id": "titan-06",
@@ -56,6 +68,8 @@
             "Armored skin",
             "Hardening"
         ]
+        ,
+        "description":"the Armored Titan was capable of utilizing crystal-like hardening around its body to at least some extent. The Armored Titan could also use this ability to create claws on its hands and feet which could be used to scale the Wall of Shiganshina District with ease."
     },
     {
         "id": "titan-07",
@@ -67,6 +81,8 @@
             "Great speed",
             "Speech"
         ]
+        ,
+        "description":"he Cart Titan, like all the Nine Titans, was brought into the world after the death of Ymir Fritz. In the 1,700 years following her death, the Cart Titan was held in the possession of one or several of the warring Eldian houses subservient to the Founding Titan."
     },
     {
         "id": "titan-08",
@@ -78,5 +94,7 @@
             "Attraction",
             "Crystallization"
         ]
+        ,
+        "description": " possessed the ability to easily mimic the attributes of the other Titans. It could also selectively harden parts of its skin and attract Pure Titans with its screams, possibly due to its aforementioned mimicry ability."
     }
 ]
